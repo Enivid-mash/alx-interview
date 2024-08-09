@@ -1,6 +1,7 @@
 #!/usr/bin/python3
 """A script for minimum operations research"""
 
+
 def minOperations(n):
     """
     Calculates the minimum number of operations needed to result in
