@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""A script for minimum operations research"""
 
 def minOperations(n):
     """
