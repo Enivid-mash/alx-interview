@@ -7,7 +7,7 @@ Args:
     total: The target amount to be made.
 
 Returns:
-    Minimum number of coins needed, or -1 if target amount cannot be made.
+    Minimum number of coins needed, or -1 if target amount cannot be made
 """
 
 
